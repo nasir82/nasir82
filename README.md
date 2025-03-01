@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm Nasir Uddin—a passionate Mobile app developer.<br>👨🏼‍🎓 studying computer science at Shahjalal University of Science & Technology, Bangladesh.<br>👨🏼‍💻 working as an app developer since 2023<br>
-
+### **I'm Nasir Uddin. A passionate Mobile app developer.**  
+👨🏼‍🎓 studying computer science at Shahjalal University of Science & Technology, Bangladesh.  
+👨🏼‍💻 working as an app developer since 2023.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mdnasiruddin.nasir.121) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nasir82/) 
