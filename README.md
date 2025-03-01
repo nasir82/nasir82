@@ -1,3 +1,4 @@
+![](banner.jpeg)
 # 💫 About Me:
 ### **I'm Nasir Uddin. A passionate Mobile app developer.**  
 👨🏼‍🎓 studying computer science at Shahjalal University of Science & Technology, Bangladesh.  
