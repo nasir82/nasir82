@@ -1,11 +1,25 @@
 ![](banner.jpeg)
-# 💫 About Me:
-### **I'm Nasir Uddin. A passionate Mobile app developer.**  
-👨🏼‍🎓 studying computer science at Shahjalal University of Science & Technology, Bangladesh.  
-👨🏼‍💻 working as an app developer since 2023.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdnasiruddin.nasir.121) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir82/) 
+# 💫 About Me
+
+### Hi, I'm **Md. Nasir Uddin** 👋
+**DevOps & Cloud Engineer ☁️ · AWS Certified Solutions Architect – Associate · Flutter Developer 📱**
+
+- 🎓 Computer Science graduate — Shahjalal University of Science & Technology (SUST)
+- ☁️ **AWS Certified Solutions Architect – Associate (SAA-C03)** → [verify on Credly](https://www.credly.com/badges/e02929f8-4086-4050-b64b-25f91e42c685)
+- 🔭 I build **cloud-native, event-driven systems** — microservices, CI/CD pipelines, and full observability stacks (metrics · logs · traces)
+- 📱 App developer since **2023** — Flutter (Riverpod, GetX, BLoC) & Jetpack Compose
+- 🌱 Currently deepening **Kubernetes** and **Terraform (IaC)**
+- 💬 Ask me about **AWS architecture, Docker, CI/CD, FastAPI, or Flutter state management**
+- 📍 Sylhet, Bangladesh
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir82/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://nasir36.netlify.app/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mdnasiruddin.nasir.121)
+<!-- Add your email badge here when ready:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+-->
 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -47,15 +61,28 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+# 🚀 Featured Projects
+
+### 🏆 [CareForAll](https://github.com/nasir82/ApiAvengers-CUET) — 1st Runner-Up · API Avengers Hackathon (CUET)
+Event-driven microservices platform: **6 Node.js/Express services** behind an **Nginx API gateway**, orchestrated with **Docker Compose** and shipped through **GitHub Actions CI/CD**. Full observability — **Prometheus + Grafana** (metrics), **ELK** (logs), **Jaeger/OpenTelemetry** (traces) — with **idempotency keys** and the **transactional outbox** pattern for reliable inter-service messaging.
+
+### 🩺 [MedLink](https://github.com/nasir82/medlink-monorepo)
+Medical platform REST API built with **FastAPI · PostgreSQL · JWT authentication · role-based access control (RBAC)**, deployed on **Railway**.
+
+### 📚 [NCC Master](https://github.com/nasir82/NCCApi)
+Educational management backend: **FastAPI + async SQLAlchemy + PostgreSQL**, with a **25+ table schema across 7 domain modules**.
+
+### 🎧 [BdNoise-10 — Audio ML Research](https://github.com/nasir82/bangladesh-audio-ml)
+**Wav2Vec2**-based classification of Bangladeshi urban noise — dataset and implementation prepared for *Data in Brief* (Elsevier).
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nasir82&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nasir82&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nasir82&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasir82&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasir82&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nasir82&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nasir82&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
